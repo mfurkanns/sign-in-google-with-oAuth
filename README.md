@@ -4,6 +4,8 @@ Google authentication with Node.js
 # Before run
 
  - npm install passport
+ 
+ - - configure the config/keys.js file
 
 # Run 
 
